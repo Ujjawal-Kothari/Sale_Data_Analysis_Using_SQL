@@ -12,3 +12,7 @@ This project helped me gain a comprehensive understanding of SQL through the ana
  
 # Queries and Analysis
 In the Music_store_data_analysis directory, you will find a series of SQL queries which I have used for my analysis.
+
+
+## Declaration
+Database, Schema and Question set used in my projects are sourced from Rishab Mishra's YouTube video. 
